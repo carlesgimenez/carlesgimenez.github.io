@@ -2,7 +2,8 @@
 title: ¿Como empezar en Azure? Recomendaciones
 author: Carles Giménez
 date: 2024-12-17 14:14:00 +0800
-tags: [Azure]
+tags: [Microsoft Learn]
+category: [Azure]
 image: /assets/img/azure-fast-load.webp
 ---
 
