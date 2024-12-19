@@ -4,6 +4,11 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![Desktop View](/assets/img/azure/charla-azure.jpg)
+_Charla sobre Azure_
+{: .nolineno}
+
+
 ¡Hola! Soy Carles Giménez, un Azure Cloud Engineer con años de experiencia ayudando a empresas a implementar soluciones en la nube de forma eficiente y escalable. He creado este espacio con un objetivo muy claro: compartir mi conocimiento de Azure y contribuir a que tú también puedas dar tus primeros pasos, crecer o perfeccionarte en este apasionante mundo.
 
 ## Mi propósito
