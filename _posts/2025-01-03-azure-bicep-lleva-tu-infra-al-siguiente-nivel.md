@@ -1,7 +1,7 @@
 ---
 title: Azure Bicep, lleva tu infraestructura al siguiente nivel
 author: Carles Giménez
-date: 2024-12-30 20:40:00 +0800
+date: 2025-01-03 14:40:00 +0800
 tags: [IaC]
 category: [Azure Bicep]
 image: /assets/img/bicep/azure_bicep.webp
