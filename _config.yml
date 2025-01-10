@@ -16,7 +16,7 @@ timezone: Europe/Madrid
 
 title: Carles Giménez # the main title
 
-tagline: Azure, IaC y más # it will display as the subtitle
+tagline: Azure, FinOps y más # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   azure, azure devops, azure bicep, iac, azure pipelines
